@@ -1,2 +1,2 @@
 # TTA-Python-Coding-Projects
-All my practice I have done using python. Working in the shell and also typing scripts to run. Things from GUI's to functionality.
+All my practice I have done using python, whether it be working in the shell or typing scripts to run. I've learned to design GUI's and to make well functioning programs.
